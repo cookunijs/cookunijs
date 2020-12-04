@@ -7,7 +7,6 @@ The service I made → <a href="http://atlie.io">Atlie.io</a><img src="https://m
 [![Twitter: cookunijs](https://img.shields.io/twitter/follow/cookunijs?style=social)](https://twitter.com/cookunijs)
 [![GitHub cookunijs](https://img.shields.io/github/followers/cookunijs?label=follow&style=social)](https://github.com/cookunijs)
 
-<br />
 
 ### Connect with me:
 
@@ -15,7 +14,6 @@ The service I made → <a href="http://atlie.io">Atlie.io</a><img src="https://m
 [<img align="left" alt="cookunijs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cookunijs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 
 ### Languages and Tools:
 
@@ -32,6 +30,8 @@ The service I made → <a href="http://atlie.io">Atlie.io</a><img src="https://m
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
+<br />
 <br />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
